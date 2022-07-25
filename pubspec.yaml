@@ -39,6 +39,7 @@ dependencies:
   firebase_core: ^1.19.2
   equatable: ^2.0.3
   email_validator: ^2.0.1
+  get: ^4.6.5
 
 
 dev_dependencies:
